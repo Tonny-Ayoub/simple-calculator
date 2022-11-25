@@ -1,2 +1,3 @@
 # simple calculator
- is the simple python calculator you can make 
+ is the simple python GUI calculator you can make 
+ import tkinter
